@@ -1,6 +1,6 @@
-# Vedanta Cloud - AWS Cloud Services and System Administration
+# Vedanta Cloud Solutions - AWS Cloud Services and System Administration
 
-Welcome to **Vedanta Cloud**, your one-stop solution for AWS Cloud Services and expert system administration. We specialize in server installations, including the popular LAMP stack (Linux, Apache, MySQL, PHP), and provide a comprehensive range of AWS services to meet your business needs.
+Welcome to **Vedanta Cloud Solutions**, your one-stop solution for AWS Cloud Services and expert system administration. We specialize in server installations, including the popular LAMP stack (Linux, Apache, MySQL, PHP), and provide a comprehensive range of AWS services to meet your business needs.
 
 ## Services
 
@@ -10,7 +10,7 @@ Welcome to **Vedanta Cloud**, your one-stop solution for AWS Cloud Services and 
 
 - **DevOps:** Unlock the potential of DevOps practices with our expertise in **AWS Elastic Beanstalk**, **CodePipeline**, and **CodeDeploy**. Automate your deployments and streamline your development processes.
 
-## Why Choose Vedanta Cloud?
+## Why Choose Vedanta Cloud Solutions?
 
 - **Experience:** With **years of experience** in the industry, we have successfully served clients ranging from startups to well-established organizations.
 
@@ -22,7 +22,7 @@ Welcome to **Vedanta Cloud**, your one-stop solution for AWS Cloud Services and 
 
 ## Contact Us
 
-Ready to take your business to the cloud? Contact Vedanta Cloud today for a consultation and let us handle your AWS Cloud Services and system administration needs.
+Ready to take your business to the cloud? Contact Vedanta Cloud Solutions today for a consultation and let us handle your AWS Cloud Services and system administration needs.
 
 - **Email:** raj.janorkar@gmail.com
 - **Phone:** +61 410 780 013
@@ -32,4 +32,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/rajjanorkar/)
 
 ---
 
-&copy; 2023 Vedanta Cloud. All rights reserved.
+&copy; 2023 Vedanta Cloud Solutions. All rights reserved.
