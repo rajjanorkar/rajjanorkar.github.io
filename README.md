@@ -25,7 +25,6 @@ Welcome to **Vedanta Cloud Solutions**, your one-stop solution for AWS Cloud Ser
 Ready to take your business to the cloud? Contact Vedanta Cloud Solutions today for a consultation and let us handle your AWS Cloud Services and system administration needs.
 
 - **Email:** raj.janorkar@gmail.com
-- **Phone:** +61 410 780 013
 - **Location:** Brisbane, Australia
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/rajjanorkar/)
